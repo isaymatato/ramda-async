@@ -1,0 +1,11 @@
+{
+  "name": "ramda-async",
+  "version": "0.0.0",
+  "description": "Async functional programming library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Williford <mateowilliford@gmail.com>",
+  "license": "ISC"
+}

@@ -9,6 +9,7 @@
   "author": "Mateo Williford <mateowilliford@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.0"
+    "bluebird": "^3.5.0",
+    "ramda": "^0.24.1"
   }
 }
